@@ -1,0 +1,29 @@
+/*
+ *  Created by PhpStorm.
+ *  User: Артём
+ *  Date time: 31.03.2020, 4:00
+ *
+ */
+
+div#tableLimitList_length {
+    float: left;
+}
+
+div#tableLimitList_paginate {
+    float: right;
+}
+
+div#tableLimitList_filter {
+    float: right;
+}
+
+div#tableLimitList_info {
+    float: left;
+}
+
+#tableLimitList td:hover {
+    cursor: pointer;
+}
+
+
+
